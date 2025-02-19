@@ -33,10 +33,6 @@ profiles:
   - icon: at-symbol
     url: 'alotmi.m@ufl.edu'
     label: E-mail Me
-#  - icon: brands/x
-#    url: https://twitter.com/GetResearchDev
-#  - icon: brands/instagram
-#    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/otmim
   - icon: brands/linkedin
@@ -71,8 +67,8 @@ education:
       GPA: 3.97/4.0
 
       Courses included:
-      - Compuational Chemistry
-      - Statistical Thermodyanmics
+      - Computational Chemistry
+      - Statistical Thermodynamics
       - Surface Science
 
 
@@ -116,17 +112,17 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
-        percent: 80
+        #description: ''
+        #percent: 80
         icon: code-bracket
       - name: Data Science
         description: ''
-        percent: 100
+        #percent: 100
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+  #    - name: SQL
+        #description: ''
+        #percent: 40
+        #icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -135,10 +131,10 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Soccer
         description: ''
         percent: 100
-        icon: cat
+        #icon: cat
       - name: Photography
         description: ''
         percent: 80
