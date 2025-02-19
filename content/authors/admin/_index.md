@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+#title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Mohammed
+last_name: Al Otmi
 
 # Status emoji
 status:
@@ -20,72 +20,76 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Florida
+    url: https://www.ufl.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'alotmi.m@ufl.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+#  - icon: brands/x
+#    url: https://twitter.com/GetResearchDev
+#  - icon: brands/instagram
+#    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/otmim
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/mohammed-al-otmi-24b164127/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=UkOV0GsAAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-9296-440X
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Molecular Modeling
+  - Membrane Material Design
+  - Transport Phenomena
+  - Data Science and Machine Learning
+
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Chemical Engineering
+    institution: University of Florida
+    date_start: 2020-08-01
+    date_end: 2025-05-05
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis Molecular design of polymer membranes [Prof Janani Sampath ]. 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Master of Science in Chemical Engineering
+    institution: University of Florida
+    date_start: 2020-08-01
+    date_end: 2024-05-01
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.97/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Compuational Chemistry
+      - Statistical Thermodyanmics
+      - Surface Science
+
+
+  - area: Bachelor of Science in Chemical Engineering
+    institution: Mississippi State University
+    date_start: 2016-08-01
+    date_end: 2019-05-03
     summary: |
       GPA: 3.4/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Mass and Energy Balance
+      - Reacter Design
+      - Quantum Chemistry
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Graduate Research Assistant
+    company_name: Sampath Research Group
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
@@ -95,15 +99,14 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Computation and Informatics Researcher
+    company_name: Energy Frontier Research Center
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
@@ -144,10 +147,8 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Arabic
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +184,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mohammed Al Otmi is a Ph.D. candidate in Chemical Engineering at the University of Florida, where he integrates molecular modeling, polymer physics, and machine learning to design next-generation membranes for energy and separation applications. As a researcher in the Department of Energy (DOE)-funded Energy Frontier Research Center (EFRC), he has led projects on anion exchange membranes for fuel cells, developing innovative computational approaches to screen polymer candidates with enhanced conductivity and stability. Mohammed earned his undergraduate degree in Chemical Engineering from Mississippi State University. Before joining Dr. Sampath’s group, he worked as a Product Quality Engineer at Delta Protein International. He is passionate about renewable energy, sustainable separation technologies, material modeling, and informatics.
