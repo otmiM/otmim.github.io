@@ -59,10 +59,10 @@ education:
     date_start: 2020-08-01
     date_end: 2025-05-05
     summary: |
-      Thesis Molecular design of polymer membranes [Prof Janani Sampath ]. 
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+#      Thesis Molecular design of polymer membranes [Prof Janani Sampath ]. 
+#    button:
+#      text: 'Read Thesis'
+#      url: 'https://example.com'
   - area: Master of Science in Chemical Engineering
     institution: University of Florida
     date_start: 2020-08-01
@@ -81,7 +81,7 @@ education:
     date_start: 2016-08-01
     date_end: 2019-05-03
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.73/4.0
       
       Courses included:
       - Mass and Energy Balance
@@ -92,7 +92,7 @@ work:
     company_name: Sampath Research Group
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2021-08-01
     date_end: ''
     summary: |2-
       Responsibilities include:
