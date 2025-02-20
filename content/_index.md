@@ -35,11 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I  am a PhD student in Chemical Engineering at the University of Florida, specializing in molecular simulations, data science, and polymer physics to design advanced membranes for hydrocarbon separation and ion exchange. As a member of the DOE-funded Energy Frontier Research Center, I contribute to developing next-generation polymer materials for separation technologies.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        Always happy to discuss science—feel free to reach out! 😃
     design:
       columns: '1'
   - block: collection
