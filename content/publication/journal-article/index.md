@@ -33,7 +33,7 @@ publication_types: ["Journal of Material Informatics"]
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://dx.doi.org/10.20517/jmi.2024.69
+# url_pdf: http://dx.doi.org/10.20517/jmi.2024.69
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: ''
 # url_poster: ''
