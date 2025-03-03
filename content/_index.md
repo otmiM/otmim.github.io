@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am an innovative scientist with over five years of experience in polymer research, specializing in synthesis, characterization, and modeling. My work integrates theory, molecular simulations, and experiments to overcome barriers to industrial polymer membrane implementation such as plasticization and aging. I have a strong foundation in experimental design and leveraging computational tools for data-driven solutions. As a member of the DOE-funded Energy Frontier Research Center, I contribute to developing next-generation polymer materials for separation technologies. I effectively manage projects, collaborate across disciplines, and communicate complex ideas to diverse audiences.
+         My research integrates theory, molecular simulations, and experiments to overcome barriers to industrial polymer membrane implementation such as plasticization and aging. I have a strong foundation in experimental design and leveraging computational tools for data-driven solutions. As a member of the DOE-funded Energy Frontier Research Center, I contribute to developing next-generation polymer materials for separation technologies.
 
-        Always happy to discuss science—feel free to reach out! 😃
+          always happy to discuss science—feel free to reach out! 😃
     design:
       columns: '1'
   # - block: collection
